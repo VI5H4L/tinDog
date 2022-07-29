@@ -1,2 +1,1 @@
-# tinDog
-Web Dev - A Replica of Tinder for Dogs
+TinDog Starting Files
