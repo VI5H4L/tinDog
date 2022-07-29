@@ -181,4 +181,10 @@ h3{
         font-size: 1.7rem;
         line-height: 1.5;
     }
+
+    #pricing{
+        padding: 40px;
+        text-align: center;
+    }
+    
 }
